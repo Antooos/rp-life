@@ -5,6 +5,7 @@
   "version": "1.2.9",
   "dependencies": {
     "bot.js": "0.0.1",
+    "scripts": {"start": "node bot.js"}
     "discord.js": "^11.3.0",
     "extend": "^3.0.2",
     "ffmpeg-binaries": "^3.2.2-3",
